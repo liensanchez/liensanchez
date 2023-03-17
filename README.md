@@ -2,7 +2,7 @@
 <h1 align="center"> 👋 Hi, I’m @liensanchez</h1>
 <h3 align="center">A Full Stack Developer from Argentina</h3>
 
-- 📫 You can reach me via mail at liensilviosancgez@gmail.com
+- 📫 You can reach me via mail at liensilviosanchez@gmail.com
 - Or through linkedin https://www.linkedin.com/in/liensanchez/
 
 Languages and Tools:
